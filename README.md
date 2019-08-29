@@ -1,2 +1,3 @@
 # btt-recorder-docs
-BTT Recorder documentation
+
+Documentation for BTT Recorder
