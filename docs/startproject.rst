@@ -1,10 +1,10 @@
-Start a New Project (version 1.2.4)
+Start a New Project (version 1.4.0-rc)
 =======
 
 Open the Program
 -----
 
-1.	Tap on the translationRecorder program icon on the tablet screen.
+1.	Tap on the BTT Recorder program icon on the tablet screen.
 
 2.	Create or login to your account.
 
@@ -30,7 +30,7 @@ Note: Tapping on the Cancel button will close the program.
 From the Recording Section (Pink)
 -----------
 
-**NOTE**: A new project can be started in the Recording Section when it is the first time translationRecorder is used (a new install.)
+**NOTE**: A new project can be started in the Recording Section when it is the first time BTT Recorder is used (a new install.)
 
 1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
 
@@ -74,7 +74,7 @@ From the Recording Section (Pink)
 10. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
 
 The recording window opens.
-You have now set all your settings and are ready to work within translationRecorder. 
+You have now set all your settings and are ready to work within BTT Recorder. 
 
 At any time you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
