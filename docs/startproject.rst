@@ -27,12 +27,12 @@ Note: Tapping on the Cancel button will close the program.
 6. Tap the blue I AGREE link at the bottom of the window if you agree with all three statements.
 
 
-From the Recording Section (Pink)
+From the Recording Section (Blue)
 -----------
 
 **NOTE**: A new project can be started in the Recording Section when it is the first time BTT Recorder is used (a new install.)
 
-1.	From the home screen (half blue and half pink), tap in the pink area to start recording.
+1.	From the home screen (half blue and half green), tap in the blue area to start recording.
 
 **NOTE**: You may tap on the left arrow in the top pink bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
@@ -79,14 +79,14 @@ You have now set all your settings and are ready to work within BTT Recorder.
 At any time you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
 
-From the Project Manager Section (Blue)
+From the Project Manager Section (Green)
 ---------------
 
-1.	From the home screen (half blue and half pink), tap in the blue area to access Projects.
+1.	From the home screen (half blue and half green), tap in the green area to access Projects.
 
-2.	Tap on the pink ‘New Project’ button that is seen only on a new install. Or, tap on the blue circle with a white plus sign.
+2.	Tap on the green ‘New Project’ button that is seen only on a new install. Or, tap on the blue circle with a white plus sign.
 
-**NOTE**: You may tap on the left arrow in the top pink bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
+**NOTE**: You may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
 3.	Select the Target Language.  (The Target Language is the language into which you will translate.)
 
