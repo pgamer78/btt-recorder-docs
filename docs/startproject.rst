@@ -1,31 +1,54 @@
 Start a New Project (version 1.4.0-rc)
 =======
 
-Open the Program
+Open the Program and Set Up New User
 -----
 
 1.	Tap on the BTT Recorder program icon on the tablet screen.
 
-2.	Create or login to your account.
+2.	Tap on 'New User' card to create a profile.
 
-3. Tap on the Create Offline Account bar. You will be able to create an online Door43 account later.
+.. image:: ../images/new%20user%20card.png
+    :width: 200 px
+    :align: center
+    :height: 146 px
+    :alt: New User Card
 
-Note: Tapping on the Cancel button will close the program. 
+3. Read, or have someone read to you, the three Terms of Use.
 
-4.	Use the keyboard and type in the actual name or a pseudonym of the translator. A “pseudonym” is a false name that is used instead of the real name of the person doing the work.
+*  Tap on each of the green bars.
+*  Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’ and the ‘Statement of Faith’.
+*  Tap on ‘Close’ at the bottom of each of the windows. 
 
-5.	Tap the blue ‘Continue’ button.
+Note: Tapping on the green 'NO THANKS' link will close the program. 
 
-4.	Accept the ‘Privacy Notice’ by tapping on the blue word ‘Continue.’
+4.	Tap the green I AGREE link at the bottom of the window if you agree with all three statements.
 
-5.	Read the three Terms of Use 
+5. Tap the Record icon (microphone) and record your name.  
 
-•	Tap on each of the blue bars. 
-•	Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’ and the ‘Statement of Faith’.
-•	Tap on ‘Close’ at the bottom of each of the windows.
+   A pseudonym is a false name that is used instead of the real name of the person doing the work.
 
-6. Tap the blue I AGREE link at the bottom of the window if you agree with all three statements.
+6. You will need to record your name while the red circle is going around – 3 seconds.
 
+7. Press the play button to listen to the recording.
+
+If you can you hear your voice and understand your words, then tap the green Yes button.
+
+.. image:: ../images/record%20name%20yes.png
+    :width: 280 px
+    :align: center
+    :height: 85 px
+    :alt: Accept Recording of Name
+
+If your voice is too soft and you cannot understand your words, then tap the Redo button to make another recording.
+
+.. image:: ../images/record%20name%20redo.png
+    :width: 275 px
+    :align: center
+    :height: 85 px
+    :alt: Redo Recording of Name
+
+When you accept the recording - the opening recording screen opens, and you are ready to start a new project.
 
 From the Recording Section (Blue)
 -----------
