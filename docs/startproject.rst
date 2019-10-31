@@ -9,9 +9,9 @@ Open the Program and Set Up New User
 2.	Tap on 'New User' card to create a profile.
 
 .. image:: ../images/new%20user%20card.png
-    :width: 200 px
+    :width: 100 px
     :align: center
-    :height: 146 px
+    :height: 73 px
     :alt: New User Card
 
 3. Read, or have someone read to you, the three Terms of Use.
@@ -35,17 +35,17 @@ Note: Tapping on the green 'NO THANKS' link will close the program.
 If you can you hear your voice and understand your words, then tap the green Yes button.
 
 .. image:: ../images/record%20name%20yes.png
-    :width: 280 px
+    :width: 100 px
     :align: center
-    :height: 85 px
+    :height: 31 px
     :alt: Accept Recording of Name
 
 If your voice is too soft and you cannot understand your words, then tap the Redo button to make another recording.
 
 .. image:: ../images/record%20name%20redo.png
-    :width: 275 px
+    :width: 100 px
     :align: center
-    :height: 85 px
+    :height: 30 px
     :alt: Redo Recording of Name
 
 When you accept the recording - the opening recording screen opens, and you are ready to start a new project.
