@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bible Translation Tools Recorder (BTT Recorder) v1.4.0 Information
+Bible Translation Tools Recorder (BTT Recorder) v1.4.x Information
 ============================
 
-This site is the official documentation for the translationRecorder user manuals.
+This site is the official documentation for the BTT Recorder user manuals.
 
 
 Contents:
