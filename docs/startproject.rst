@@ -10,7 +10,7 @@ Open the Program and Set Up New User
 
 .. image:: ../images/NewUserCard.gif
     :width: 200 px
-    :align: left
+    :align: center
     :height: 146 px
     :alt: New User Card
 
@@ -36,7 +36,7 @@ If you can you hear your voice and understand your words, then tap the green Yes
 
 .. image:: ../images/RecordNameYes.gif
     :width: 280 px
-    :align: left
+    :align: center
     :height: 85 px
     :alt: Accept Recording of Name
 
@@ -44,7 +44,7 @@ If your voice is too soft and you cannot understand your words, then tap the Red
 
 .. image:: ../images/RecordNameRedo.gif
     :width: 275 px
-    :align: left
+    :align: center
     :height: 85 px
     :alt: Redo Recording of Name
 
