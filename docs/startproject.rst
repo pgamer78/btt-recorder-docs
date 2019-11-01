@@ -34,7 +34,7 @@ Note: Tapping on the green 'NO THANKS' link will close the program.
 
 If you can you hear your voice and understand your words, then tap the green Yes button.
 
-.. image:: ../images/NewUserCard.gif
+.. image:: ../images/RecordNameYes.gif
     :width: 100 px
     :align: center
     :height: 31 px
