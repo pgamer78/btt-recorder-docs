@@ -8,7 +8,7 @@ Open the Program and Set Up New User
 
 2.	Tap on 'New User' card to create a profile.
 
-.. image:: ../images/new%20user%20card.png
+.. image:: ../images/NewUserCard.gif
     :width: 100 px
     :align: center
     :height: 73 px
@@ -34,7 +34,7 @@ Note: Tapping on the green 'NO THANKS' link will close the program.
 
 If you can you hear your voice and understand your words, then tap the green Yes button.
 
-.. image:: ../images/record%20name%20yes.png
+.. image:: ../images/NewUserCard.gif
     :width: 100 px
     :align: center
     :height: 31 px
@@ -42,7 +42,7 @@ If you can you hear your voice and understand your words, then tap the green Yes
 
 If your voice is too soft and you cannot understand your words, then tap the Redo button to make another recording.
 
-.. image:: ../images/record%20name%20redo.png
+.. image:: ../images/RecordNameRedo.gif
     :width: 100 px
     :align: center
     :height: 30 px
