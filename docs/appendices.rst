@@ -3,12 +3,12 @@ English Appendices
 
 English Source Audio
 -----
-Go to this page (https://sites.google.com/a/wycliffeassociates.org/wamtt/) to links to download the English source audio files for translationRecorder. **NOTE** These files are for translation projects for the ULB by Verse.
+Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce3a/) for folders to download the English source audio files for BTT Recorder. **NOTE** These files are for translation projects for the ULB by Verse.
 
 **How to download:**
 
 1. Go to the the page above.
-#. Find the desired book/chapter for the translation work.
+#. Navigate to the desired testament/book/chapter for the translation work.
 #. Click on the link in the URL column.
 #. Download the file to the tablet or computer (to transfer to the tablet later.)
 
