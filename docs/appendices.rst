@@ -42,8 +42,8 @@ Power Point Presentations (with PDFs)
 ----
 
 **Installing BTT Recorder 1.4.0-rc** - 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Installing_v1.2.4.pptx) 
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Installing_v1.2.4.pdf)
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/presentations/BTTRecorder_Installing_v1.4.x.pptx) 
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/presentations/BTTRecorder_Installing_v1.4.x.pdf)
 
 **Starting a New Project 1.4.0-rc** - 
  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Starting_a_New_Project%20v1.2.4.pptx) 
