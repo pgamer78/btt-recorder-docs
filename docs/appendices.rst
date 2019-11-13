@@ -49,9 +49,14 @@ Power Point Presentations (with PDFs)
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf)
 
-**Starting a New Project 1.4.x** - 
- * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project%20v1.4.pptx) 
- * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project%20v1.4.pdf)
+**Starting a New Project using the Recording Section 1.4.x** - 
+NOTE: Starting a new project from the recording section can only be done if there are no other projects started.
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx) 
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf)
+
+**Starting a New Project using the Project Manager 1.4.x** - 
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Manager_v1.4.x.pptx) 
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Manager_v1.4.x.pdf)
 
 
 !!! THESE COMING SOON !!!
