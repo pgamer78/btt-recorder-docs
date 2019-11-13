@@ -1,7 +1,7 @@
 Start a New Project (version 1.4.0-rc)
 ====
 
-Start a New From the Recording Section (Blue)
+Start a New Project From the Recording Section (Blue)
 =======
 
 **NOTE**: A new project can be started in the Recording Section ONLY when it is the first time BTT Recorder is used (a new install.)
@@ -30,7 +30,7 @@ The program goes to the Choose a Project step.
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-NOTE: You must select the same Translation Type and Mode as the source audio. 
+**NOTE: You must select the same Translation Type and Mode as the source audio. **
 
 The program goes to the Source Audio step. 
 
@@ -39,7 +39,7 @@ Choosing the Source Audio
 
 Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
-1. Tap on the top green bar (SOURCE LANGUAGE:) to select the Source Audio. (The Source Language audio is the language from which you will translate.)
+1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
   * You can search for the desired source language by tapping the magnifying glass.
   * The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.
@@ -52,9 +52,9 @@ The program goes back to the Source Audio window.
 
  * The file manager should open to the directory of where the audio files are located.
 
-**NOTE**: The audio files are configured in this way: Language_3-letterbookcode_type.tr  So, for the ULB audio of the book of Titus in Mandarin the file would be named "cmn_ulb_Titus.tr". 
+**NOTE**: The audio files are configured in this way: Language_3-letterbookcode_type.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
 
-**Hint**: You may need to look in the Internal Storage for *.tr files. 
+**Hint**: You may need to search in the Internal Storage for *.tr files. 
 
 3. Tap on the name of the desired Source Language audio file. 
 
@@ -74,9 +74,9 @@ From the Project Manager Section (Green)
 
 1.	From the home screen (half blue and half green), tap in the green area to access Projects.
 
-2.	Tap on the green ‘New Project’ button that is seen only on a new install. Or, tap on the blue circle with a white plus sign.
+2.	Tap on the green ‘New Project’ button that is seen only on a new install. Or, if there are project already started, tap on the blue circle with a white plus sign.
 
-**NOTE**: You may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
+**NOTE**: During these next steps, you may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
 3.	Select the Target Language.  (The Target Language is the language into which you will translate.)
 
@@ -91,30 +91,50 @@ From the Project Manager Section (Green)
 
 6. Choose a Translation Type - Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible.
 
-7. Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the information will be divided. 
+7.  Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the information will be divided. 
 
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-8.	Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
+**NOTE: You must select the same Translation Type and Mode as the source audio. **
 
-•	You can search for the desired source language by tapping the magnifying glass. 
-•	The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.  
-•	You can also search by swiping from the bottom of the screen up to scroll through the languages.
-•	Tap on the name of the desired Source Language. The program goes back to the Source Audio window.
+The program goes to the Source Audio step. 
 
-9.	Tap on the blue SELECT SOURCE LOCATION button.
+Choosing the Source Audio
+=======
 
-•	The file manager should open to the directory of where the audio files are located.
+Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
+  * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-**NOTE**: The audio files are configured in this way: Language_3-letterbookcode_type.tr  So, for the ULB audio of the book of Titus in Mandarin the file would be named "cmn_ulb_Titus.tr". 
+Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
-**Hint**: You may need to look in the Internal Storage for the SourceAudio folder. 
+1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
-•	Tap on the name of the desired Source Language audio file. The program goes back to the Source Audio window.
+  * You can search for the desired source language by tapping the magnifying glass.
+  * The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.
+  * You can also search by swiping from the bottom of the screen up to scroll through the languages.
+  * Tap on the name of the desired Source Language.
 
-10. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
+The program goes back to the Source Audio window.
 
-The program opens the recording screen. Go to the (http://tr-info.readthedocs.io/en/latest/recording.html) for more instruction.
+2. Tap on the bottom green bar (SELECT SOURCE LOCATION) to load the source audio.
+
+ * The file manager should open to the directory of where the audio files are located.
+
+**NOTE**: The audio files are configured in this way: Language_3-letterbookcode_type.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
+
+**Hint**: You may need to search in the Internal Storage for *.tr files. 
+
+3. Tap on the name of the desired Source Language audio file. 
+
+The program goes back to the Source Audio window.
+
+4. Confirm that the information in the green bar is correct. 
+
+5. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
+
+The recording window opens.
+
+You are ready to work within BTT Recorder. At any time, you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
 
