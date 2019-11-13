@@ -3,9 +3,9 @@ Recording
 
 Steps to Follow from the Recording Window
 ----
-NOTE: See the "Detailed instructions for the Recording Window" section for complete instructions.
+NOTE: See the 'Detailed instructions for the Recording Window'_ section for complete instructions.
 
-1.	On the home screen, tap in the pink recording area.
+1.	On the home screen, tap in the blue recording area.
 
 2.	Check the information on the top gray bar:
 
