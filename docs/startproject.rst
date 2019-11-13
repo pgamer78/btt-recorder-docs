@@ -1,4 +1,4 @@
-Start a New Project (version 1.4.0-rc)
+Start a New Project (version 1.4.x)
 ====
 
 Start a New Project From the Recording Section (Blue)
