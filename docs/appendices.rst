@@ -44,12 +44,13 @@ Power Point Presentations (with PDFs)
 **Installing BTT Recorder 1.4.x** - 
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pptx) 
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pdf)
- 
+
 **BTT Recorder User Setup 1.4.x** -
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf)
 
 **Starting a New Project using the Recording Section 1.4.x** - 
+
 NOTE: Starting a new project from the recording section can only be done if there are no other projects started.
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx) 
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf)
@@ -59,7 +60,7 @@ NOTE: Starting a new project from the recording section can only be done if ther
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Manager_v1.4.x.pdf)
 
 
-!!! THESE COMING SOON !!!
+**!!! THESE ARE COMING SOON !!!**
 
 **Recording from Program Manager - Oral Languages 1.4.0-rc**
  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Recording_from_PM-Oral_Languages_%20v1.2.4.pptx)
@@ -80,5 +81,5 @@ NOTE: Starting a new project from the recording section can only be done if ther
 Manuals
 -----
 
-**Version 0.8 User Manual** - a manual with screen shots - (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/BTT Recorder_How_to_Guide_v0.8.pdf)
+**Version 0.8 User Manual** - a manual with screen shots - **COMING SOON!!**
 
