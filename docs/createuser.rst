@@ -1,13 +1,13 @@
 Creating a New User Profile
-==========
+=======
 
 Open the Program
-====
+-----
 
 1.	Tap on the BTT Recorder program icon on the tablet screen.
 
 Create a New User Profile
-====
+-----
 
 2.	Tap on 'New User' card to create a profile.
 
