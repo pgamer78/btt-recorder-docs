@@ -1,4 +1,4 @@
-Start a New Project (version 1.4.x)
+Start a New Project (version 1.4)
 =======
 
 Start a New Project From the Recording Section (Blue)
@@ -19,25 +19,23 @@ Start a New Project From the Recording Section (Blue)
 
 The program goes to the Choose a Project step.
  
-3. Choose a Project - Choose, by tapping once, from the choices of Bible:Old Testament or Bible:New Testament.
+3. Choose a Project - Choose, by tapping once, from the choices of Bible:Old Testament or Bible:New Testament or Bible stories:Open Bible Stories.
 
 4. Choose a Book - Tap on a book in the Bible. Swipe up to see more book names.
 
-5. Choose a Translation Type - Tap to choose either the REG: Regular or the ULB: Unlocked Literal Bible.
+5. Choose a Translation Type - Tap to choose from the REG:Regular, ULB:Unlocked Literal Bible or UDB:Unlocked Dynamic Bible.
 
 6. Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the information will be divided. 
 
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-**NOTE: You must select the same Translation Type and Mode as the source audio. **
+**NOTE: You must select the same Translation Type and Mode as the source audio.**
 
 The program goes to the Source Audio step. 
 
 Choosing the Source Audio
 -----
-
-Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
 1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
@@ -48,7 +46,7 @@ Next, select the Source Audio. (The Source Language audio is the language from w
 
 The program goes back to the Source Audio window.
 
-2. Tap on the bottom green bar (SELECT SOURCE LOCATION) to load the source audio.
+2. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio.
 
  * The file manager should open to the directory of where the audio files are located.
 
@@ -68,13 +66,15 @@ The recording window opens.
 
 You are ready to work within BTT Recorder. At any time, you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
+Go to Recording (https://btt-recorder.readthedocs.io/en/latest/recording.html) for instructions on how to record.
+
 
 From the Project Manager Section (Green)
 -----
 
 1.	From the home screen (half blue and half green), tap in the green area to access Projects.
 
-2.	Tap on the green ‘New Project’ button that is seen only on a new install. Or, if there are project already started, tap on the blue circle with a white plus sign.
+2.	Tap on the green ‘New Project’ button that is seen only on a new install. Or, if there are project already started, tap on the green circle with a white plus sign.
 
 **NOTE**: During these next steps, you may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
@@ -85,28 +85,23 @@ From the Project Manager Section (Green)
 •	You can also search by swiping from the bottom of the screen up to scroll through the languages. Tap on the desired language.
 •	Tap on the name of the desired Target Language. The program goes to the Choose a Project step.
 
-4. Choose a Project - Choose, by tapping once, from the choices of Bible: OT or Bible: NT.
+4. Choose a Project - Choose, by tapping once, from the choices of Bible:Old Testament or Bible:New Testament or Bible stories:Open Bible Stories.
 
 5. Choose a Book - Tap on a book in the Bible. Swipe up to see more book names.
 
-6. Choose a Translation Type - Tap to choose from the Unlocked Literal Bible or the Unlocked Dynamic Bible.
+6. Choose a Translation Type - Tap to choose from the REG:Regular, ULB:Unlocked Literal Bible or UDB:Unlocked Dynamic Bible.
 
 7.  Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the information will be divided. 
 
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-**NOTE: You must select the same Translation Type and Mode as the source audio. **
+**NOTE: You must select the same Translation Type and Mode as the source audio.**
 
 The program goes to the Source Audio step. 
 
 Choosing the Source Audio
 ------
-
-Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
-  * The ‘Chunk’ mode has each recording separated according to groups of verses.
-
-Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
 1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
@@ -117,7 +112,7 @@ Next, select the Source Audio. (The Source Language audio is the language from w
 
 The program goes back to the Source Audio window.
 
-2. Tap on the bottom green bar (SELECT SOURCE LOCATION) to load the source audio.
+2. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio.
 
  * The file manager should open to the directory of where the audio files are located.
 
