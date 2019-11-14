@@ -1,8 +1,8 @@
 Start a New Project (version 1.4.x)
-====
+=======
 
 Start a New Project From the Recording Section (Blue)
-=======
+-----
 
 **NOTE**: A new project can be started in the Recording Section ONLY when it is the first time BTT Recorder is used (a new install.)
 
@@ -35,7 +35,7 @@ The program goes to the Choose a Project step.
 The program goes to the Source Audio step. 
 
 Choosing the Source Audio
-=======
+-----
 
 Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
 
@@ -70,7 +70,7 @@ You are ready to work within BTT Recorder. At any time, you may tap the back arr
 
 
 From the Project Manager Section (Green)
-=====
+-----
 
 1.	From the home screen (half blue and half green), tap in the green area to access Projects.
 
@@ -101,7 +101,7 @@ From the Project Manager Section (Green)
 The program goes to the Source Audio step. 
 
 Choosing the Source Audio
-=======
+------
 
 Next, select the Source Audio. (The Source Language audio is the language from which you will translate.)
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
