@@ -1,10 +1,8 @@
-Editing Recordings in Project Management
+Edit Recordings in Project Management
 =============
 
 See this File https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/IconsChecking.pdf for the list of icons and their name.
 
-Working with a Recording in Project Management
------
 Find a recording
 ***** 
 1. Start at the Project Management screen. Tap on a Project to edit.
@@ -35,4 +33,4 @@ Rate the recording:
 2. Tap on OK to save.
 
 
-Go to the next topic - 'Editing Recordings <https://github.com/WycliffeAssociates/btt-recorder-docs/edit/master/docs/editing.rst>'_ to learn how to edit the recordings in BTT Recorder.
+Go to the next topic - Editing Recordings (https://github.com/WycliffeAssociates/btt-recorder-docs/edit/master/docs/editing2.rst) to learn how to edit the recordings in BTT Recorder.
