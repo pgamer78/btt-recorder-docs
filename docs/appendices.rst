@@ -22,7 +22,7 @@ Use these files to give to the oral language translators. They might help them r
 
 **tR Editing Audio Recordings** 
 
-**Icons on the Target Language Checking Screen** 
+**Icons on the Target Language Checking Screen** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-R_Icons_Target_Language_Checking_Screen.pdf)
 
 **Good Recording Levels** 
 
