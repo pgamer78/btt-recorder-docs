@@ -20,6 +20,7 @@ Contents:
    recording
    editing1
    editing2
+   editing3
    sourceaudio
    filemanager
    compiling
