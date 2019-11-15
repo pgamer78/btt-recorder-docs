@@ -72,12 +72,14 @@ Power Point Presentations (with PDFs)
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pdf)
 
+**Editing Recordings - Cutting and Inserting 1.4** 
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_%26_Inserting_v1.4.pptx)
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_%26_Inserting_v1.4.pdf)
+
 **!!! THESE ARE COMING SOON !!!**
 
-**Editing Audio Recordings 1.4.0-rc** 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Editing_Recording-Audio_Recording_v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Editing_Recording-Audio_Recording_v1.2.4.pdf)
- 
+** Editing Recordings - Verse Markers and Rating**
+
  **Finishing a Book**
  
  **Sharing Recordings and Projects**
