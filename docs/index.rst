@@ -18,7 +18,8 @@ Contents:
    createuser
    startproject
    recording
-   editing
+   editing1
+   editing2
    sourceaudio
    filemanager
    compiling
