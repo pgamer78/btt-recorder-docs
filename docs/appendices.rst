@@ -14,23 +14,23 @@ Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce
 
 Translator Handouts
 -----
-Use these files to give to the oral-only translators. They might help them remember the steps.
+Use these files to give to the oral language translators. They might help them remember the steps.
 
-**tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/RecordingProcess_ProjectManager_MTT.pdf)
+**tR Recording Process from the Project Manager** 
 
-**tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/RecordingProcess_ProjectManager_MTT.pdf)
+**tR Recording Process from the Recording Section** 
 
-**tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Editing_Audio_Recordings_for_MTT.pdf)
+**tR Editing Audio Recordings** 
 
-**Icons on the Target Language Checking Screen** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/Icons_on_the_Target_Language_Checking_Screen.pdf)
+**Icons on the Target Language Checking Screen** 
 
-**Good Recording Levels** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Good_Recording_Levels_MTT.pdf)
+**Good Recording Levels** 
 
-**Verse Tagging** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Marking_Verses_in_Chunk_%20Mode_for_MTT.pdf)
+**Verse Tagging** 
 
-**Completing a Book** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Finalizing_the_Book_for_MTT.pdf)
+**Completing a Book** 
 
-**Sharing the Audio Files** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/appendix/tR_Sharing_the_Book_for_MTT.pdf)
+**Sharing the Audio Files** 
 
 
 Videos
@@ -50,8 +50,7 @@ Power Point Presentations (with PDFs)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf)
 
 **Starting a New Project using the Recording Section 1.4.x** - 
-
-NOTE: Starting a new project from the recording section can only be done if there are no other projects started.
+ * **NOTE**: Starting a new project from the recording section can only be done if there are no other projects started.
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx) 
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf)
 
@@ -59,17 +58,17 @@ NOTE: Starting a new project from the recording section can only be done if ther
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Manager_v1.4.x.pptx) 
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Manager_v1.4.x.pdf)
 
-
+**Recording from Project Management - Oral Translations - WITH source audio 1.4**
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Oral_Translations_%20With_Source_Audiov1.4.x.pptx)
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Oral_Translations_%20With_Source_Audiov1.4.x.pdf)
+ 
+**Recording from Project Management - Audio Recordings - WITHOUT source audio 1.4**
+ * Audio recordings are done by someone that can read a source text.  
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx)
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pdf)
+  
 **!!! THESE ARE COMING SOON !!!**
 
-**Recording from Program Manager - Oral Languages 1.4.0-rc**
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Recording_from_PM-Oral_Languages_%20v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Recording_from_PM-Oral_Languages_%20v1.2.4.pdf)
- 
-**Recording from Program Manager - Audio Recordings 1.4.0-rc**
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Recording_from_PM-Audio_Recordings_%20v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Recording_from_PM-Audio_Recordings_%20v1.2.4.pdf)
-  
 **Editing Oral Language Recordings 1.4.0-rc**
  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Editing_Recording-Oral_Language%20v1.2.4.pptx)
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/BTT Recorder-Info/blob/master/presentations/BTT Recorder_Editing_Recording-Oral_Language%20v1.2.4.pdf)
