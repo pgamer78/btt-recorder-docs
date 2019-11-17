@@ -1,20 +1,22 @@
-Editing Recordings - Cutting and Inserting
+Using the Edit Screen - Cutting and Inserting
 =======
-
-Listen to the Recording
------
-To replay your recording simply tap the play button.  
-
-To rewind the recording tap the rewind icon and tap the fast forward icon to go farther along in the recording.
-
 
 Compare the recording to the Source Language recording
 -----
+**First, listen to the Source Audio**:
 
 •	To compare your recording to the Source Language recording press the hearing ear icon and press the play icon on the gray bar.  
 •	To pause the recording tap the pause button on the gray bar (the pause icon replaces the play icon.) 
 •	To rewind (go towards the beginning of the recording) or fast forward (go towards the end of the recording) press and hold the green dot and slide your finger to the left for rewind or to the right to fast forward. 
-•	To return to your recording press the wave button.
+•	To return to your recording tap on the wave form icon.
+
+**Then, listen to the recording**:
+
+* To playback your recording, tap the white play icon on the blue bar.
+* To pause the playback of the recording, tap the pause icon on the blue bar. (The pause icon replaces the play icon.)
+* To rewind the recording tap the rewind icon and tap the fast forward icon to go farther along in the recording.
+
+You may go between listening to the source audio and listening to the recording.
 
 
 Remove a section of recording 
@@ -30,25 +32,29 @@ The action of removing a section of a recording is known as a 'cut.'
 
 3.  Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the blue line.
 
-**NOTE**: Tap on the crossed-off flags to remove the flags and start at step 1 again.
+4.  Tap the upside-down flag button. This will mark the section for deletion. 
 
-4.  Tap the flag button. This will mark the section for deletion. 
+**OPTIONAL**: Tap the play icon to listen to the section that will be removed.
 
-Optional: Tap the play icon to listen to the section that will be removed.
+Do you want to change the amount of recording is selected? Press-hold-drag on the upside-down flag to increase or decrease the amount of the selected recording. 
 
-5.  Set the ending point of the cut. You may use a press-hold-drag motion to move the right blue/green tab to change the amount of audio to remove. 
-
-Optional: Tap on the back arrow icon to undo the delete action.
+Need to start again? Tap on the crossed-off flags icon to remove the flags and start at step 1.
 
 6.	Delete the selected recording by tapping on the scissors icon.
 
+Optional: Tap on the back arrow icon to undo the delete action.
+
+7.	Tap on the SD card icon to save the edit. BTT Recorder will return to Project Management.
 
 Insert a new section of recording.
 -----
+Sometimes you may want to insert a missing part into the translation.
 
-1.	Line up the thin blue line where you want the recording to be inserted. (Use the press-hold-drag action.)
+1.	Position the audio at the thin blue line for where the new audio will be added in. (Use the press-hold-drag action.)
 
 2.	Tap the Add a Recording icon in the top gray bar. This will open a new recording session.  
+
+**NOTE**: The bar at the bottom of the window is green.
 
 3.	Tap the microphone icon to start recording. 
 
@@ -62,5 +68,5 @@ Insert a new section of recording.
 To save the file tap the save icon. 
 *  A ‘Saving’ pop-up shows. 
 
-Once it is done saving it will open Project Management with the most recent file on top.
+Once the program is done saving it will open Project Management with the most recent take listed as Take 1.
 
