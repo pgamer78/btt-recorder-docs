@@ -76,7 +76,7 @@ Power Point Presentations (with PDFs)
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pdf)
 
-** Editing Recordings - Verse Markers and Rating 1.4**
+**Editing Recordings - Verse Markers and Rating 1.4**
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf)
 
