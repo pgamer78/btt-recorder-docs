@@ -17,7 +17,7 @@ Verse/Chunk Take Bar
 *****
 The items in the verse take bar are (listed top to bottom and left to right):
 
-1. The time line of the length of the audio take. The lines expands left to right as the audio take plays.
+1. The time line of the length of the audio take. The line expands left to right as the audio take plays.
 2. Garbage can icon - Tap on the garbage can icon to delete a selected take. **NOTE:** The numbering of the takes will change to reflect the lower number of takes available. 
 3. Wave form icon - Tap on the wave form icon to enter the editing screen of BTT Recorder.
 4. Play icon - Tap the play icon to play the recording. Tap the pause icon to stop the recording.
