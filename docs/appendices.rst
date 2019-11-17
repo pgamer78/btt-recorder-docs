@@ -78,7 +78,7 @@ Power Point Presentations (with PDFs)
 
 ** Editing Recordings - Verse Markers and Rating 1.4**
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx)
-  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf)
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf)
 
 
 **!!! THESE ARE COMING SOON !!!**
