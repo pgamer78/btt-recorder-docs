@@ -33,4 +33,4 @@ Rate the recording:
 2. Tap on OK to save.
 
 
-Go to the next topic - Editing Recordings (https://github.com/WycliffeAssociates/btt-recorder-docs/edit/master/docs/editing2.rst) to learn how to edit the recordings in BTT Recorder.
+Go to the next topic - Editing Recordings (https://btt-recorder.readthedocs.io/en/latest/editing2.html) to learn how to edit the recordings in BTT Recorder.
