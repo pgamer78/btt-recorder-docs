@@ -12,18 +12,17 @@ Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce
 3. Click on the desired file.
 4. Download the file to the tablet or computer (to transfer to the tablet later.)
 
-
 Translator Handouts
 -----
 Use these files to give to the oral language translators. They might help them remember the steps.
 
-**tR Recording Process from the Project Manager** 
+**Recording without Source Audio v1.4** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_without_Source_Audio_1.4.pdf)
 
-**tR Recording Process from the Recording Section** 
-
-**tR Editing Audio Recordings** 
+**Editing Audio Recordings v1.4** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Audio_Recordings_v1.4.pdf)
 
 **Icons on the Target Language Checking Screen** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-R_Icons_Target_Language_Checking_Screen.pdf)
+
+**Recording with Source Audio v1.4** 
 
 **Good Recording Levels** 
 
@@ -33,11 +32,6 @@ Use these files to give to the oral language translators. They might help them r
 
 **Sharing the Audio Files** 
 
-
-Videos
-----
-
-Coming Soon!!!
 
 Power Point Presentations (with PDFs)
 ----
@@ -92,6 +86,8 @@ Power Point Presentations (with PDFs)
 
 Manuals
 -----
+
+**What to Show the Oral Translator on the Tablet** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf)
 
 **Version 0.8 User Manual** - a manual with screen shots - **COMING SOON!!**
 
