@@ -20,17 +20,17 @@ Use these files to give to the oral language translators. They might help them r
 
 **Editing Audio Recordings v1.4** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Audio_Recordings_v1.4.pdf)
 
-**Icons on the Target Language Checking Screen** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-R_Icons_Target_Language_Checking_Screen.pdf)
+**Icon on the Edit Screen** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf)
+
+**Marking Verses in Chunk Mode** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Marking_Verses_in_Chunk_Mode_v1.4.pdf)
+
+**Complete a Book** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Finalizing_the_Book_v1.4.pdf)
+
+**Sharing the Audio Files** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Sharing_the_Recording_v1.4.pdf)
 
 **Recording with Source Audio v1.4** 
 
 **Good Recording Levels** 
-
-**Verse Tagging** 
-
-**Completing a Book** 
-
-**Sharing the Audio Files** 
 
 
 Power Point Presentations (with PDFs)
