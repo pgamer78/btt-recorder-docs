@@ -1,7 +1,7 @@
-Menus and Icons on the Project Management Screen
+Menus and Icons
 ========
 
-The 3-dot Menu
+The 3-dot Menu on the Project Management Screen
 -----
 The 3-dot menu is found to the far right on the top blue bar. Choose from one of the following menu items:
 
@@ -21,14 +21,14 @@ The column headings show the order of information on the project bars:
 
 * Language - This will be the Target Language of the project.
 * Book - This is the book that is being translated or recorded.
-* Ccompleteness - This circle will fill with blue as the project progresses.
+* Completeness - This circle will fill with blue as the project progresses.
 
 In addition are two other icons on each of the project bars:
 
 * Information icon (gray circle with a white 'i' inside) - See further information below.
 * Microphone - Tap this icon to go directly to the recording screen.
 
-Information Menu
+Information Menu on the Project Bar
 -----
 Tap on the Information icon (gray circle with a white 'i' inside) for a project and a window opens with further details about the project.
 
@@ -43,3 +43,30 @@ The Book and Target Language are in the title of the details with the rest of th
 
 Tap anywhere off the white area to close the Information Menu.
 
+The Verse or Chunk Take Bar in Project Management
+-----
+
+Tap on the right arrow > at the end of a verse/chunk bar to view the options available for working with the audio recordings in Project Management. The items in the verse take bar are (listed top to bottom and left to right):
+
+1.  The time line of the length of the audio take. The line expands left to right as the audio take plays.
+2.	Garbage can icon - Tap on the garbage can icon to delete a selected take. **NOTE**: The numbering of the takes will change to reflect the lower number of takes available. 
+3.	Wave form icon - Tap on the wave form icon to enter the editing screen of BTT Recorder.
+4.	Play icon - Tap the play icon to play the recording. Tap the pause icon to stop the recording.
+5.	Check mark – Tap to turn green. This icon is green when the take is approved to use. When the take is rated, this checkmark is green.
+6.	Star icon - Tap on the star icon to rate the recording.
+7.	Choose a recording - Tap on the right or left arrow to go between the audio takes for a verse. Notice the take number changes.
+
+Icons on the Edit Screen
+-----
+
+* Star - Tap to rate the recording. Choose between 1, 2 or 3 stars. 
+* Re-record - Tap to open a new recording window.
+* Add a Recording - Tap on the microphone in a comment bubble to add a recording in a selected spot on timeline.
+* Timer - Shows the passage of time, in hour:minute:second, of the recording. The smaller numbers after the slash (/) show the total time length of the recording.
+* Rewind - Tap to go back to the start of the recording.	
+* Play - Tap to hear the recording.
+* Fast Forward - To go to the end of the recording.
+* Flag - Tap to edit the recording.
+* SD Card - Tap to save the recording.
+* Recording Waves - Tap to listen to the Target Language recording.
+* Listen - Tap to listen to the Source Language recording.
