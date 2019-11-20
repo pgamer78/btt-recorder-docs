@@ -20,7 +20,7 @@ Use these files to give to the oral language translators. They might help them r
 
 **Editing Audio Recordings v1.4** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Audio_Recordings_v1.4.pdf)
 
-**Icon on the Edit Screen** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf)
+**Edit Screen Icons** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf)
 
 **Marking Verses in Chunk Mode** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Marking_Verses_in_Chunk_Mode_v1.4.pdf)
 
@@ -28,10 +28,9 @@ Use these files to give to the oral language translators. They might help them r
 
 **Sharing the Audio Files** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Sharing_the_Recording_v1.4.pdf)
 
+**Good Recording Levels** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Good_Recording_v1.4.pdf)
+
 **Recording with Source Audio v1.4** 
-
-**Good Recording Levels** 
-
 
 Power Point Presentations (with PDFs)
 ----
@@ -43,7 +42,11 @@ Power Point Presentations (with PDFs)
 **BTT Recorder User Setup 1.4** -
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf)
-
+ 
+**BTT Recorder Menus and Icons 1.4** -
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pptx)
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pdf)
+  
 **Starting a New Project using the Recording Section 1.4** - 
  * **NOTE**: Starting a new project from the recording section can only be done if there are no other projects started.
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx) 
