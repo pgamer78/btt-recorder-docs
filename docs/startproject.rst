@@ -1,4 +1,4 @@
-Start a New Project (version 1.4)
+Start a New Project
 =======
 
 Start a New Project From the Recording Section (Blue)
@@ -74,7 +74,7 @@ From the Project Manager Section (Green)
 
 1.	From the home screen (half blue and half green), tap in the green area to access Projects.
 
-2.	Tap on the green ‘New Project’ button that is seen only on a new install. Or, if there are project already started, tap on the green circle with a white plus sign.
+2.	Tap on the blue ‘New Project’ button that is seen only on a new install. Or, if there are project already started, tap on the green circle with a white plus sign.
 
 **NOTE**: During these next steps, you may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
