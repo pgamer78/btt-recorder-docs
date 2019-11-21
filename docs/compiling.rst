@@ -45,7 +45,7 @@ Check the chapter recording
 
 **Does the recording need editing?**
  * Are there long pauses? Go to the verse or chunk recording and delete the silence from the recording.
- * Are there things that need to be corrected? Go the the verse or chunk recording and make a new recording or edit the recording.
+ * Are there things that need to be corrected? Go to the verse or chunk recording and make a new recording or edit the recording.
  
 When the corrections have been made. Tap on the black stack of paper icon to stitch the chapter again.
 
