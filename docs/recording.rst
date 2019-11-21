@@ -25,7 +25,7 @@ NOTE: See the 'Detailed instructions for the Recording Window'_ section for comp
 
 7.	Tap the check icon in the bottom pink bar.
 
-8.	Edit and rate the recording. (See: http://btt-recorder.readthedocs.io/en/latest/editing.html)
+8.	Edit and rate the recording. 
 
 9.	Save the recording. The recording window closes and the home screen shows.
 
@@ -61,7 +61,7 @@ Steps to Follow from the File Manager
 
 10.	Tap the check icon in the bottom pink bar.
 
-11.	Edit and rate the recording. (See: http://btt-recorder.readthedocs.io/en/latest/editing.html)
+11.	Edit and rate the recording. 
 
 12.	Save the recording. The recording window closes and the file manager window for the verses in that chapter show.
 
