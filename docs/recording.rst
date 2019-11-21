@@ -3,8 +3,6 @@ Recording
 
 Steps to Follow from the Recording Window
 ----
-NOTE: See the 'Detailed instructions for the Recording Window'_ section for complete instructions.
-
 1.	On the home screen, tap in the blue recording area.
 
 2.	Check the information on the top gray bar:
@@ -23,7 +21,7 @@ NOTE: See the 'Detailed instructions for the Recording Window'_ section for comp
 
 6.	Tap the pause icon when done saying the verse/chunk.
 
-7.	Tap the check icon in the bottom pink bar.
+7.	Tap the check icon in the bottom blue bar.
 
 8.	Edit and rate the recording. 
 
@@ -32,10 +30,10 @@ NOTE: See the 'Detailed instructions for the Recording Window'_ section for comp
 10.	Repeat steps 1 to 9 for all verses in the book.
 
 
-Steps to Follow from the File Manager
+Steps to Follow from Project Management
 -----
 
-1.	On the home screen, tap in the blue file manager area.
+1.	On the home screen, tap in the green Project Management side.
 
 2.	Tap on the project name bar.
 
@@ -59,11 +57,11 @@ Steps to Follow from the File Manager
 
 9.	Tap the pause icon when done saying the verse/chunk.
 
-10.	Tap the check icon in the bottom pink bar.
+10.	Tap the check icon in the bottom blue bar.
 
 11.	Edit and rate the recording. 
 
-12.	Save the recording. The recording window closes and the file manager window for the verses in that chapter show.
+12.	Save the recording. The recording window closes and the Project Management window for the verses in that chapter show.
 
 13.	On the next verse bar that needs to be recorded, tap on the microphone icon.
 
@@ -76,23 +74,23 @@ Detailed instructions for the Recording Window
 
 Starting at the home screen:
 
-1.	Click anywhere in the pink section to take you into the Recorder.
+1.	Click anywhere in the blue section to take you into the Recorder.
 
 2.	If the Security warning shows – Tap in the box before the words ‘Do not remind again.’ so that there is a check mark in the box. Then tap the word ‘ALLOW.’ (This is the only time you will need to check and allow.)
 
-You are now in the Recorder. You can see the Target Language, the Source, the Book, the Chapter and the Verse in the gray bar at the top of the screen. 
+You are now in the Recording window. You can see the Target Language, the Source, the Book, the Chapter and the Verse in the gray bar at the top of the screen. 
 
 3.	Tap on the play button in the gray bar at the bottom of the screen to listen to the source language of that particular verse/chunk.
 
 4.	Listen to the verse or chunk. The green dot will move along the line. The numbers on the left of the line count down and the numbers on the right count up the length of the audio recording.
 
-5.	Tap the microphone icon in the pink bar to start Recording.
+5.	Tap the microphone icon in the blue bar to start Recording.
 
 6.	Speak clearly and loudly into the microphone.  As you begin to speak you will see a wavy line appear on the screen which is a result of the sound of your voice. 
  
 7.	When done with that portion tap the pause button.  
 
-8.	You can then start recording again by tapping on the microphone icon, or tap the checkmark to go to the edit screen.
+8.	You can then start recording again by tapping on the microphone icon, or tap the checkmark to go to the Edit window.
  
  
 
