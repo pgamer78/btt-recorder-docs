@@ -1,7 +1,7 @@
 Edit Recordings in Project Management
 =============
 
-See this File https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/IconsChecking.pdf for the list of icons and their name.
+See this "Edit Screen Icons" (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf) for the list of icons and their name.
 
 Find a recording
 ***** 
