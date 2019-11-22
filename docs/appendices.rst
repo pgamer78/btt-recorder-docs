@@ -24,7 +24,7 @@ Use these files to give to the oral language translators. They might help them r
 
 **Marking Verses in Chunk Mode** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Marking_Verses_in_Chunk_Mode_v1.4.pdf)
 
-**Complete a Book** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Finalizing_the_Book_v1.4.pdf)
+**Create Chapter Recordings** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf)
 
 **Sharing the Audio Files** - (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Sharing_the_Recording_v1.4.pdf)
 
@@ -77,9 +77,9 @@ Power Point Presentations (with PDFs)
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx)
  * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf)
 
-**Finishing a Book 1.4**
- * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Finish_a_book_v1.4.pptx)
- * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Finish_a_book_v1.4.pdf)
+**Create Chapter Recordings 1.4**
+ * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx)
+ * PDF - view the file here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf)
  
  
 **!!! THESE ARE COMING SOON !!!**
