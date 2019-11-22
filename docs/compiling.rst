@@ -5,7 +5,8 @@ After the verse or chunk recordings have been created for a chapter it is then p
  
 **Terms to know**: 
  * Compile – to put into one piece, combine.
- * Stitch – to combine the different recordings into one recording.
+ * Stitch – to compile the different recordings into one recording.
+ * Packaging - to prepare the recordings for compressing into a smaller file. This process is done automatically by the software.
  
 Complete the Recording of the Chapter
 -----
