@@ -34,6 +34,33 @@ Use these files to give to the oral language translators. They might help them r
 
 Power Point Presentations (with PDFs)
 ----
+*Click* **Download** *on the linked page to download the PowerPoints.*
+
+.. list-table:: **Presentations** 
+   :widths: 15 10 30
+   :header-rows: 1
+   
+   * - Title
+     - Power Point
+     - PDF Document
+
+   * - **Installing BTT Recorder 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pptx>`_
+     - \* `PDF File <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pdf>`_
+ 
+   * - **BTT Recorder User Setup 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pptx>`_
+     - \* `PDF File <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf>`_
+ 
+   * - **BTT Recorder Menus and Icons 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pptx>`_
+	    - \* `PDF File <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pdf>`_
+  
+   * - **Starting a New Project using the Recording Section 1.4**
+     - \* `PowerPoint  <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx>`_
+	    - \* `PDF File <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf>`_
+
+
 
 **Installing BTT Recorder 1.4** - 
  * Power Point - use the 'download' button to download from here: (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pptx) 
