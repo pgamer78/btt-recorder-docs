@@ -69,7 +69,7 @@ You are ready to work within BTT Recorder. At any time, you may tap the back arr
 Go to Recording https://btt-recorder.readthedocs.io/en/latest/recording.html for instructions on how to record.
 
 `test link to rst <../docs/recording.rst>`_ for instructions on how to record.
-_`test link to html <../en/latest/recording.html>`_ 
+`test link to html <../en/latest/recording.html>`_ 
 
 
 From the Project Manager Section (Green)
