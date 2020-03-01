@@ -66,7 +66,8 @@ The recording window opens.
 
 You are ready to work within BTT Recorder. At any time, you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
-Go to Recording `https://btt-recorder.readthedocs.io/en/latest/recording.html <../recording.html>`_ for instructions on how to record.
+Go to Recording https://btt-recorder.readthedocs.io/en/latest/recording.html for instructions on how to record.
+`test link <../recording.html>`_ for instructions on how to record.
 
 
 From the Project Manager Section (Green)
